@@ -154,9 +154,11 @@
     background-color: rgb(119, 119, 246);
     border: none;
     font-weight: bold;
+    transition: 0.3s;
 }
 .banner .title #shop:hover{
     background-color: black;
+    transition: 0.3s;
 }
 .item{
     width: 85%;
